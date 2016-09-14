@@ -4,6 +4,7 @@ We have proposed an effective generative model with network regularization for m
 structure information for prediction. 
 
 % The code has been used in:
+
 %  [1] Wang S, Ye Y, Li X, et al. Semi-supervised Collective Classification in Multi-attribute Network Data. Neural Process Lett (2016). doi:10.1007/s11063-016-9517-y
 
 % ATTN: You can feel free to use the package (for academic purpose only) at your own risk. 
